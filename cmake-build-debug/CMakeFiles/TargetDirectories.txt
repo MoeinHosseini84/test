@@ -1,0 +1,3 @@
+/Users/moein/Documents/tamrin0/cmake-build-debug/CMakeFiles/tamrin0.dir
+/Users/moein/Documents/tamrin0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moein/Documents/tamrin0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
